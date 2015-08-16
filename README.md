@@ -1,4 +1,4 @@
-HTML Games
+Express jQuery Gulp Boilerplate Project
 ================
 
 # Dependencies
